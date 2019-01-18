@@ -10,5 +10,5 @@
   * [Proof of Concept](coverage/proof-of-concept.md)
 * [Agreements](agreements/README.md)
   * [Bug Priority Levels](agreements/bug-priority-levels.md)
-  * [Response SLA](agreements/response-sla.md)
+  * [Service Levels](agreements/response-sla.md)
 
