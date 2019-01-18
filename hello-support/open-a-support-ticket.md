@@ -22,5 +22,5 @@ If you qualify for a P1 support please call our international toll-free line - *
 | **8** | **Support level** | _P1/ P2/ P3/ P4_ |
 | **9** | **ScopeID** | _Scope identification string_ |
 
-In order to open a support ticket please fill in the details in the table above and send it to [support@dnif.it](mailto:support@dnif.it).
+In order to open a support ticket please fill in the details in the table above and send it to support \[at\] dnif \[dot\] it.
 

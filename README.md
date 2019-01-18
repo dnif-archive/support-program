@@ -1,4 +1,10 @@
-# Welcome Aboard
+---
+description: >-
+  Guide to understand the support system around DNIF, gives you details about
+  what and how to engage with the DNIF SupportOps teams.
+---
+
+# DNIF Support Program
 
 Thank you for being a DNIF user, we have always been thinking about you and as to how we could better serve you in product and service. At DNIF, we have always wanted to deliver high quality product that can be deployed easily and then managed without much hassle. 
 

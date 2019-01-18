@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome Aboard](README.md)
+* [DNIF Support Program](README.md)
 * [Hello Support](hello-support/README.md)
   * [Open a support ticket](hello-support/open-a-support-ticket.md)
 * [Coverage](coverage/README.md)
@@ -9,6 +9,6 @@
   * [Not covered under support](coverage/not-covered-under-support.md)
   * [Proof of Concept](coverage/proof-of-concept.md)
 * [Agreements](agreements/README.md)
-  * [Priority levels](agreements/priority-levels.md)
+  * [Bug Priority Levels](agreements/bug-priority-levels.md)
   * [Response SLA](agreements/response-sla.md)
 
