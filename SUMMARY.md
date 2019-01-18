@@ -9,6 +9,6 @@
   * [Not covered under support](coverage/not-covered-under-support.md)
   * [Proof of Concept](coverage/proof-of-concept.md)
 * [Agreements](agreements/README.md)
-  * [Response SLA](agreements/response-sla.md)
   * [Priority levels](agreements/priority-levels.md)
+  * [Response SLA](agreements/response-sla.md)
 
