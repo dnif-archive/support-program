@@ -21,7 +21,7 @@ This table talks about the different plans and based on these plans you might be
 | Telephone support |  |  |  | Yes |
 | Remote support |  |  |  | Yes |
 | Dedicated manager |  |  |  | Yes |
-| 8x5 Support window |  |  | P1 - P4 | P1 - P4 |
+| 12x5 Support window |  |  | P1 - P4 | P1 - P4 |
 | 24x7 Support window |  |  |  | P1/P2 |
 
 
