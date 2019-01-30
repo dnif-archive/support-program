@@ -12,11 +12,11 @@ This table talks about the different plans and based on these plans you might be
 | Community forum | Yes | Yes | Yes | Yes |
 | Online training sessions | Yes | Yes | Yes | Yes |
 | User group meetings | Yes | Yes | Yes | Yes |
-| Apprentice trainings |  |  | Yes | Yes |
+| Apprentice trainings | Paid | Paid | Yes | Yes |
 | Online ticket submission |  |  | Yes | Yes |
 | Online ticket status |  |  | Yes | Yes |
-| Parser development |  |  | Yes | Yes |
-| Plugin development |  |  | Yes | Yes |
+| Parser development | Paid | Paid | Yes | Yes |
+| Plugin development | Paid | Paid | Yes | Yes |
 | Email support |  |  | Yes | Yes |
 | Telephone support |  |  |  | Yes |
 | Remote support |  |  |  | Yes |
