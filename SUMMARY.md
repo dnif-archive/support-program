@@ -12,7 +12,6 @@
   * [Bug Priority Levels](agreements/bug-priority-levels.md)
   * [Service Levels](agreements/service-levels.md)
 * [Terms & Conditions](terms-and-conditions.md)
-* [Terms & Conditions](terms-and-conditions-1.md)
 * [Processes](processes/README.md)
   * [Remote Support](processes/remote-support.md)
   * [Phone Support](processes/phone-support.md)
