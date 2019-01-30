@@ -11,4 +11,5 @@
 * [Agreements](agreements/README.md)
   * [Bug Priority Levels](agreements/bug-priority-levels.md)
   * [Service Levels](agreements/service-levels.md)
+* [Terms & Conditions](terms-and-conditions.md)
 
