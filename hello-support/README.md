@@ -23,9 +23,7 @@ We are always looking to take initiatives that help you understand DNIF better, 
 * [DNIF Platform documentation ](https://dnif.it/docs)
 * Documentation for [integration and plugins](https://dnif.it/integrations.html)
 * All purpose community support forum [stack.dnif.it](https://stack.dnif.it/)
-* Online one-on-one training sessions
 * Apprentice training at DNIF HQ in Mumbai, India
-* Online user group meetings \(monthly\)
 
 Register for the DNIF newsletter on the [website](https://dnif.it) to get updates on the next online training session you can join.
 

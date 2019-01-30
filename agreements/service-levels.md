@@ -23,7 +23,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 
 | Response Head | Standard | Enterprise |
 | :--- | :---: | :---: |
-| **Support Window** | 12x5 | 24x7 |
+| **Support Window** | 12x5 | 12x5 |
 | **Turn Around Time \(TAT\)** | 24 hrs | 1 hr |
 | **Ticket Update Cycle \(TUC\)** | Daily | 4 hrs |
 | **Resolution Time \(RT\)** | 1 week | 1 week |
