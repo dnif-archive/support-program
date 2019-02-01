@@ -12,8 +12,7 @@
   * [Bug Priority Levels](agreements/bug-priority-levels.md)
   * [Service Levels](agreements/service-levels.md)
   * [Escalation Matrix](agreements/escalation-matrix.md)
-* [Terms & Conditions](terms-and-conditions.md)
 * [Processes](processes/README.md)
+  * [Calling In](processes/calling-in.md)
   * [Remote Support](processes/remote-support.md)
-  * [Phone Support](processes/phone-support.md)
 
