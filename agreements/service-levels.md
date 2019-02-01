@@ -14,8 +14,8 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | :--- | :---: | :---: |
 | **Support Window** | 12x5 | 24x7 |
 | **Turn Around Time \(TAT\)** | 2 hrs | 30 mins |
-| **Ticket Update Cycle \(TUC\)** | Daily | 2 hr |
-| **Resolution Time \(RT\)** | 1 week | 48 hrs |
+| **Ticket Update Cycle \(TUC\)** | Daily | 4 hrs |
+| **Resolution Time \(RT\)** | 1 week | 24 hrs |
 
 ## Priority 2 Tickets
 
@@ -24,8 +24,8 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | Response Head | Standard | Enterprise |
 | :--- | :---: | :---: |
 | **Support Window** | 12x5 | 12x5 |
-| **Turn Around Time \(TAT\)** | 24 hrs | 1 hr |
-| **Ticket Update Cycle \(TUC\)** | Daily | 4 hrs |
+| **Turn Around Time \(TAT\)** | 12 hrs | 2 hrs |
+| **Ticket Update Cycle \(TUC\)** | Daily | 6 hrs |
 | **Resolution Time \(RT\)** | 1 week | 1 week |
 
 ## Priority 3 Tickets
@@ -35,7 +35,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | Response Head | Standard | Enterprise |
 | :--- | :---: | :---: |
 | **Support Window** | 12x5 | 12x5 |
-| **Turn Around Time \(TAT\)** | 48 hrs | 4 hrs |
+| **Turn Around Time \(TAT\)** | 12 hrs | 4 hrs |
 | **Ticket Update Cycle \(TUC\)** | -- | Daily |
 | **Resolution Time \(RT\)** | -- | -- |
 
@@ -46,7 +46,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | Response Head | Standard | Enterprise |
 | :--- | :---: | :---: |
 | **Support Window** | 12x5 | 12x5 |
-| **Turn Around Time \(TAT\)** | 48 hrs | 24 hrs |
+| **Turn Around Time \(TAT\)** | 48 hrs | 12 hrs |
 | **Ticket Update Cycle \(TUC\)** | -- | Weekly |
 | **Resolution Time \(RT\)** | -- | -- |
 

@@ -4,7 +4,7 @@ description: Scenarios that aren't covered under support
 
 # Not covered under support
 
-Here are some asks that the DNIF SupportOps may not be able to fulfil
+Here are some asks that the DNIF SupportOps may not be able to fulfill
 
 * Validating/ troubleshooting a DQL query or entity
 * Backing up or pruning old indexes
