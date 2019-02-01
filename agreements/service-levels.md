@@ -26,7 +26,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | **Support Window** | 12x5 | 12x5 |
 | **Turn Around Time \(TAT\)** | 12 hrs | 2 hrs |
 | **Ticket Update Cycle \(TUC\)** | Daily | 6 hrs |
-| **Resolution Time \(RT\)** | 1 week | 1 week |
+| **Resolution Time \(RT\)** | 1 week | 48 hrs |
 
 ## Priority 3 Tickets
 
