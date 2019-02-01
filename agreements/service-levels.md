@@ -52,6 +52,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 
 ## Rules of Engagement
 
+* DNIF Support may require Customer to provide them with the following information: \(a\) a general description of the operating environment, \(b\) a list of all hardware components, operating systems and networks, \(c\) a reproducible test case, and \(d\) any log files, trace and systems files. Customer’s failure to provide this information may prevent DNIF Support from identifying and fixing that purported defect.
 * All tickets that do not get resolved in the given _Resolution Time_ \(RT\) will automatically get escalated to the higher priority level.
 * Support window are in Indian Standard Time \(IST\) starting 10:00AM to 07:00PM Monday through Friday \(Except NetMonastery defined Holidays\).
 * All timelines described above are in accordance to the applicable support window.
