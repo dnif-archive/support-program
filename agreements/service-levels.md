@@ -15,7 +15,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | **Support Window** | 12x5 | 24x7 |
 | **Turn Around Time \(TAT\)** | 2 hrs | 30 mins |
 | **Ticket Update Cycle \(TUC\)** | Daily | 4 hrs |
-| **Resolution Time \(RT\)** | 1 week | 24 hrs |
+| **Resolution Time \(RT\)** | 1 week | 48 hrs |
 
 ## Priority 2 Tickets
 
@@ -26,7 +26,7 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | **Support Window** | 12x5 | 12x5 |
 | **Turn Around Time \(TAT\)** | 12 hrs | 2 hrs |
 | **Ticket Update Cycle \(TUC\)** | Daily | 6 hrs |
-| **Resolution Time \(RT\)** | 1 week | 48 hrs |
+| **Resolution Time \(RT\)** | 1 week | 4 days |
 
 ## Priority 3 Tickets
 
@@ -50,14 +50,14 @@ These priority levels are only applicable for the _**standard**_ and _**enterpri
 | **Ticket Update Cycle \(TUC\)** | -- | Weekly |
 | **Resolution Time \(RT\)** | -- | -- |
 
-## Rules of Engagement
+## Terms and Conditions
 
-* DNIF Support may require Customer to provide them with the following information: \(a\) a general description of the operating environment, \(b\) a list of all hardware components, operating systems and networks, \(c\) a reproducible test case, and \(d\) any log files, trace and systems files. Customer’s failure to provide this information may prevent DNIF Support from identifying and fixing that purported defect.
-* All tickets that do not get resolved in the given _Resolution Time_ \(RT\) will automatically get escalated to the higher priority level.
-* Support window are in Indian Standard Time \(IST\) starting 10:00AM to 07:00PM Monday through Friday \(Except NetMonastery defined Holidays\).
-* All timelines described above are in accordance to the applicable support window.
+* All SLAs are in accordance with Business hours/ days, except for 24x7 support scenarios
+* All tickets that do not get resolved in the given _Resolution Time_ \(RT\) will automatically get escalated and be upgraded to a higher priority level
+* Support window are in Indian Standard Time \(IST\) starting 10:00AM to 10:00PM Monday through Friday except for Indian Public Holidays or service outage times that must be notified 15 calendar days in advance.
+* DNIF Support may require Customer/ Partner to provide them with the following information: \(a\) a general description of the operating environment, \(b\) a list of all hardware components, operating systems and networks, \(c\) a reproducible test case, and \(d\) any log files, trace and systems files. Customer’s failure to provide this information may prevent DNIF Support from identifying and fixing that purported defect.
 * Feature/ Enhancements/ Low [priority bugs](bug-priority-levels.md) will only be decided on the release review.
-* All _Resolution Times_ \(RT\) assume priority response and decision making from the key stakeholders.
+* All _Resolution Times_ \(RT\) assume priority response and decision making from the key stakeholders on the customer/ partner side.
 * All issues must be ticketed, all Service Levels will apply from the time the ticket is created at Support Helpdesk.
 
 ## Glossary of Terms

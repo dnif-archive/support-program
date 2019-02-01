@@ -4,8 +4,9 @@ Though we have internal control measures to avoid any SLA breaches and work fast
 
 | Escalation Level | Escalation to | Contact |
 | :--- | :--- | :--- |
-| Level 1 | Sr. Manager Support |  |
-| Level 2 | Vice President Support |  |
+| Level 1 | Sr. Manager Support | srmgr.supportops@dnif.it |
+| Level 2 | Vice President Support | vp.supportops@dnif.it |
+| Level 3 |  |  |
 
 
 
