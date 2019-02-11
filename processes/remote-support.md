@@ -10,7 +10,9 @@ Some situations demand hands on troubleshooting or support to achieve a quick re
 
 Process flow for providing remote support on an issue.
 
-![Remote support process chart](../.gitbook/assets/phone-support%20%282%29.png)
+<!-- ![Remote support process chart](../.gitbook/assets/phone-support%20%282%29.png) -->
+
+![Remote support process chart](/images/phone-support%20%282%29.png)
 
 1. Customer reports an issue and a ticket is opened
 2. Initial issue is investigated by the SupportOps over email
