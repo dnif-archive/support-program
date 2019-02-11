@@ -1,7 +1,3 @@
----
-description: Better understanding on what is covered under your support agreement.
----
-
 # Coverage
 
 This section will cover -

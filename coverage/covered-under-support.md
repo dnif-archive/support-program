@@ -1,7 +1,3 @@
----
-description: Scenarios that are covered under support
----
-
 # Covered under support
 
 {% hint style="info" %}

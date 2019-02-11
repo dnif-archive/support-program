@@ -1,7 +1,3 @@
----
-description: This is how we define the priority of bugs
----
-
 # Bug Priority Levels
 
 | Priority Level | Description |

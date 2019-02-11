@@ -1,7 +1,3 @@
----
-description: When you would like to test the waters.
----
-
 # Proof of Concept
 
 It always makes sense to try before you buy, specially if you are planning to go dive head first. We plan to support customers and their trials as much as possible, but finally we are limited in many ways. Here are the best models to ensure you have a successful trial.

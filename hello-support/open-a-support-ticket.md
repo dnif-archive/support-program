@@ -1,7 +1,3 @@
----
-description: On how you could open a support ticket
----
-
 # Open a support ticket
 
 If you have already understood the various aspects of support and are aware of the scenarios under which support is applicable please file a support ticket with the following details.

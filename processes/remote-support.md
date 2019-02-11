@@ -10,9 +10,7 @@ Some situations demand hands on troubleshooting or support to achieve a quick re
 
 Process flow for providing remote support on an issue.
 
-<!-- ![Remote support process chart](../.gitbook/assets/phone-support%20%282%29.png) -->
-
-![Remote support process chart](/images/phone-support%20%282%29.png)
+![Remote support process chart](https://github.com/dnif/support-program/tree/e0813b4f2a053ba21560df9d38c0362af72db2db/images/phone-support%20%282%29.png)
 
 1. Customer reports an issue and a ticket is opened
 2. Initial issue is investigated by the SupportOps over email
@@ -23,7 +21,7 @@ Process flow for providing remote support on an issue.
 7. If the issue is resolved, a ticket update and a resolution guide is shared
 8. If the issue is not resolved then alternate strategies/ workarounds are suggested and a new remote session is requested
 
-##  Notes
+## Points to remember
 
 * The customer/ partner is required to continuously be a part of the remote session and all investigative details will be shared with the representative while the analysis is performed.
 * A remote session will always require the customer/ partner to be available on the voice call so decisions can be taken and on-site support can be provided.

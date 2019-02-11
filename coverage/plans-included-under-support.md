@@ -1,7 +1,3 @@
----
-description: Here is what you get on your support contract.
----
-
 # Plans included under support
 
 This table talks about the different plans and based on these plans you might be able to determine the level of support you might be entitled to have.

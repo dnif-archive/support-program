@@ -1,7 +1,3 @@
----
-description: This is how fast we respond
----
-
 # Service Levels
 
 These priority levels are only applicable for the _**standard**_ and _**enterprise**_ plans as described in the [plans included under support](../coverage/plans-included-under-support.md) section.

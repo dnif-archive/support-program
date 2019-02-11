@@ -1,7 +1,3 @@
----
-description: 'Don''t worry, we have you covered.'
----
-
 # Hello Support
 
 ## Understanding the support system

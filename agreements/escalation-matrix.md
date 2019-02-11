@@ -1,7 +1,3 @@
----
-description: Let us know if you think we need to resolve quicker
----
-
 # Escalation Matrix
 
 Failure to meet _any_ SLA metrics like TAT, TUC or RT, can be escalated as per the below matrix by sending _a separate email_ to the below addresses.
