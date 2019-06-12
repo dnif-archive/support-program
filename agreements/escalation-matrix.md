@@ -11,14 +11,14 @@ Failure to meet _any_ SLA metrics like TAT, TUC or RT, can be escalated as per t
 | Priority 1 | Standard | Enterprise |
 | :--- | :---: | :---: |
 | Primary Contact | support@dnif.it | support@dnif.it |
-| Level 1 Escalation  | After 24 hrs:   support@dnif.it | After 12 hrs:  support@dnif.it |
+| Level 1 Escalation  | After 24 hrs:   support@dnif.it | After 12 hrs:   support@dnif.it |
 | Level 2 Escalation | After 32 hrs: mgr.ops@dnif.it | After 16 hrs:  mgr.ops@dnif.it |
 | Level 3 Escalation | After 40 hrs :  vp.ops@dnif.it | After 20 hrs :    vp.ops@dnif.it  |
 
 | Priority 2 | Standard | Enterprise |
 | :--- | :---: | :---: |
 | Primary Contact | support@dnif.it | support@dnif.it |
-| Level 1 Escalation  | After 32 hrs:   support@dnif.it | After 24 hrs:  support@dnif.it |
+| Level 1 Escalation  | After 32 hrs:   support@dnif.it | After 24 hrs:   support@dnif.it |
 | Level 2 Escalation | After 40 hrs: mgr.ops@dnif.it | After 32 hrs:  mgr.ops@dnif.it |
 | Level 3 Escalation | After 50 hrs :  vp.ops@dnif.it | After 40 hrs :    vp.ops@dnif.it  |
 
@@ -45,10 +45,6 @@ Failure to meet _any_ SLA metrics like TAT, TUC or RT, can be escalated as per t
 * Standby support for infrastructure upgrades etc will only be available as a planned / schedule activity.
 * All queries / requests / tickets regarding new installation / upgrades must be routed through business.
 * DNIF SupportOps will not participate in any drill / audits, all requests must be raised as tickets.
-
-{% hint style="info" %}
-Resolution Time for each escalation level is **one working day** post which the matter could be further escalated to the next level.
-{% endhint %}
 
 | Level | Escalation to | Contact |
 | :---: | :--- | :--- |
